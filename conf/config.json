@@ -23,8 +23,8 @@
         "real_time_decryption": false,
         "check_segments_count": true,
         "select_video": "res=1920:for=best",
-        "select_audio": "lang='ita|Ita|it':for=best",
-        "select_subtitle": "lang='ita|eng|Ita|Eng|it|en':for=all",
+        "select_audio": "lang='Jp|En|jp|en':for=best",
+        "select_subtitle": "lang='eng|Eng|en':for=all",
         "cleanup_tmp_folder": true
     },
     "M3U8_CONVERSION": {
