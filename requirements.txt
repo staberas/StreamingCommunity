@@ -7,4 +7,5 @@ jsbeautifier
 pathvalidate
 ua-generator
 pywidevine
+
 pyplayready
