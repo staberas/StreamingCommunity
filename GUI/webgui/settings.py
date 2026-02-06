@@ -62,8 +62,8 @@ DATABASES = {
     }
 }
 
-LANGUAGE_CODE = "it-it"
-TIME_ZONE = "Europe/Rome"
+LANGUAGE_CODE = "en-us"
+TIME_ZONE = "Europe/Athens"
 USE_I18N = True
 USE_TZ = True
 
